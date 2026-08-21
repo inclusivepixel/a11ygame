@@ -1,3 +1,7 @@
 body {background: #272626;}
-p {font-family: "Atkinson Hyperlegible", sans serif;}
-img {align: center;}
+p {font-family: "Atkinson Hyperlegible", sans serif;
+  color: #fff;
+  font-size: 24pt;}
+img {display: block;
+     width: 75%;
+    align: center;}
