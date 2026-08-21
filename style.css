@@ -1,7 +1,10 @@
 body {background: #272626;}
 p {font-family: "Atkinson Hyperlegible", sans serif;}
 .main {color: #fff;
-  font-size: 24pt;}
-img.header {display: block;
-     width: 75%;
-    align: center;}
+  font-size: 24pt;
+      display: flex;
+  align-items: center; 
+  justify-content: center;}
+img.header {display: flex;
+  align-items: center; 
+  justify-content: center;}
