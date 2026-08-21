@@ -12,4 +12,5 @@ p {font-family: "Atkinson Hyperlegible", sans serif;}
   justify-content: center;}
 .header {display: flex;
   align-items: center; 
-  justify-content: center;}
+  justify-content: center;
+  text-align: center;}
