@@ -1,7 +1,14 @@
 body {background: #272626;}
+h1 {font-family: "Atkinson Hyperlegible", sans serif;
+   font-size: 48pt;}
 p {font-family: "Atkinson Hyperlegible", sans serif;}
 .main {color: #fff;
   font-size: 24pt;
+      display: flex;
+  align-items: center; 
+  justify-content: center;}
+.copy {color: #fff;
+  font-size: 12pt;
       display: flex;
   align-items: center; 
   justify-content: center;}
