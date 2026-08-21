@@ -2,6 +2,6 @@ body {background: #272626;}
 p {font-family: "Atkinson Hyperlegible", sans serif;}
 .main {color: #fff;
   font-size: 24pt;}
-img {display: block;
+img.header {display: block;
      width: 75%;
     align: center;}
